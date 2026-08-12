@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0020-valid-parentheses](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0020-valid-parentheses) |
 | [0038-count-and-say](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
@@ -34,4 +35,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
