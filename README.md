@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0881-boats-to-save-people](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
+| [0053-maximum-subarray](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Manacher
 |  |
@@ -89,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
