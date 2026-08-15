@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0560-subarray-sum-equals-k](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0881-boats-to-save-people](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [0560-subarray-sum-equals-k](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -95,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0053-maximum-subarray) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
