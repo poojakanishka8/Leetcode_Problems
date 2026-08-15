@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
+| [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0881-boats-to-save-people) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
