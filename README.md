@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0387-first-unique-character-in-a-string) |
+| [3340-check-balanced-string](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/3340-check-balanced-string) |
 ## Sorting
 |  |
 | ------- |
