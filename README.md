@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/0009-palindrome-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3783-mirror-distance-of-an-integer](https://github.com/poojakanishka8/Leetcode_Problems/tree/master/3783-mirror-distance-of-an-integer) |
 ## String
 |  |
 | ------- |
